@@ -72,6 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-UBC-Path-VR/Assets/TerraLand/Scenes/Core/Downloads/TerraLand Terrain Demo.meta
-UBC-Path-VR/Assets/TerraLand/Scenes/Core/Downloads/TerraLand Terrain Demo/03-07-2018_18-57-49/Satellite Images - Shadowless.meta
-#UBC-Path-VR/Assets/TerraLand/TerraLand Core/Downloads/11-09-2022_00-13-00/*
+
+UBC-Path-VR/Assets/TerraLand/Scenes/Core/Downloads/TerraLand Terrain Demo/*
+UBC-Path-VR/Assets/TerraLand/TerraLand Core/Downloads/11-09-2022_00-13-00/*
