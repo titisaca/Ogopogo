@@ -1,0 +1,52 @@
+Terrain Generation Settings
+
+Address: Swiss Alps
+Latitude: 49.9460092990978 Degree
+Longitude: -119.39067363739 Degree
+NewTerrainGrid: _1
+NewTerrainSizeX: 10
+NewTerrainSizeZ: 10
+NewTerrainPixelError: 26.2
+LatExtents: 1
+LonExtents: 1
+SquareArea: True
+ArbitraryTop: 49.9505008755184
+ArbitraryLeft: -119.397653454558
+ArbitraryBottom: 49.9415177226772
+ArbitraryRight: -119.383693820222
+MapType: 4
+SaveASCII: False
+SaveRAW: False
+SaveTIFF: False
+TerrainResolutionEditor: 4096
+TerrainSmooth: 3
+ElevationExaggeration: 1
+GridTerrain: 4096
+ImageGridPerTerrain: 2
+ImageResolutionEditor: 4096
+TextureTerrain: 0
+Quality: 100
+ImportCompression: False
+AutoScale: False
+Anisotropic: 4
+AlphaResolution: 512
+AsyncCalls: 50
+EngineResolutionMode: 0
+ResolutionPresetSection: True
+NewTerrainSection: True
+LocationSection: True
+AreaSizeSection: True
+HeghtmapDownloaderSection: True
+ImageDownloaderSection: True
+FailedDownloaderSection: True
+SplitSizeNew: 1
+TotalTerrainsNew: 1
+SmoothBlendIndex: 0
+SmoothBlend: 0.5
+ServerSection: True
+ServerGrid: _32x32
+WorldMode: 0
+formatMode: 0
+GridPerWorld: 32
+TerrainResolutionStreaming: 256
+ImageResolutionStreaming: 512
