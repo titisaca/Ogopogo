@@ -47,7 +47,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-/Assets/TerraLand/Scenes/Core/Downloads
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
